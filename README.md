@@ -1,6 +1,6 @@
 # 💼 Kartikeya's Portfolio
 
-![Portfolio Preview](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/)
+![Portfolio Preview](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/og-image.png)
 
 A modern, high-performance portfolio website built with Next.js, showcasing my skills, projects, and professional journey.
 
@@ -81,16 +81,11 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 ### 📬 Connect With Me
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Visit Website](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-kesarwani-7a5b03293/)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-
-### Customization Notes:
-1. Replace placeholder links (`https://www.linkedin.com/in/kartikeya-kesarwani-7a5b03293/`, `kartikeyakesarwani@gmail.com`) with your actual contact information
-2. Add a real screenshot by replacing the placeholder image URL
-3. Update the "Highlights" section with your actual Lighthouse scores if available
 
 This README features:
 - Clean, professional formatting
@@ -100,7 +95,7 @@ This README features:
 - Easy-to-follow setup instructions
 - Consistent styling throughout
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
