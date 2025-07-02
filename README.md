@@ -1,6 +1,6 @@
 # 💼 Kartikeya's Portfolio
 
-![Portfolio Preview](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/og-image.png)
+![Portfolio Preview](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/)
 
 A modern, high-performance portfolio website built with Next.js, showcasing my skills, projects, and professional journey.
 
@@ -68,16 +68,13 @@ Accessible: WCAG 2.1 compliant
 Modern Design: Clean, minimalist aesthetic
 
 🤝 Contributing
+
 Contributions are welcome! Please follow these steps:
 
 Fork the repository
-
 Create your feature branch (git checkout -b feature/AmazingFeature)
-
 Commit your changes (git commit -m 'Add some AmazingFeature')
-
 Push to the branch (git push origin feature/AmazingFeature)
-
 Open a Pull Request
 
 📜 License
@@ -91,7 +88,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 ### Customization Notes:
-1. Replace placeholder links (`your-profile`, `https://www.linkedin.com/in/kartikeya-kesarwani-7a5b03293/`, `kartikeyakesarwani@gmail.com`) with your actual contact information
+1. Replace placeholder links (`https://www.linkedin.com/in/kartikeya-kesarwani-7a5b03293/`, `kartikeyakesarwani@gmail.com`) with your actual contact information
 2. Add a real screenshot by replacing the placeholder image URL
 3. Update the "Highlights" section with your actual Lighthouse scores if available
 
