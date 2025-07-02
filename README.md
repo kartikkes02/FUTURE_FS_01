@@ -60,7 +60,7 @@ portfolio/
 ├── next.config.js   # Next.js config
 ├── package.json
 └── README.md
-
+```
 🌟 Highlights
 Performance Optimized: 95+ Lighthouse score
 SEO Friendly: Proper meta tags and Open Graph
@@ -82,19 +82,18 @@ Open a Pull Request
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
-📬 Connect With Me
+
+### 📬 Connect With Me
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ### Customization Notes:
-1. Replace placeholder links (`your-profile`, `your-handle`, `your.email@example.com`) with your actual contact information
+1. Replace placeholder links (`your-profile`, `https://www.linkedin.com/in/kartikeya-kesarwani-7a5b03293/`, `kartikeyakesarwani@gmail.com`) with your actual contact information
 2. Add a real screenshot by replacing the placeholder image URL
 3. Update the "Highlights" section with your actual Lighthouse scores if available
-4. Consider adding a "Projects" section if you want to highlight specific work samples
-5. Add a LICENSE file to your repository if you're using the MIT license
 
 This README features:
 - Clean, professional formatting
@@ -103,6 +102,7 @@ This README features:
 - Mobile-friendly markdown
 - Easy-to-follow setup instructions
 - Consistent styling throughout
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
