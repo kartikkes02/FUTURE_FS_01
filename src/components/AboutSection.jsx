@@ -91,7 +91,7 @@ export const AboutSection = () => {
 
           <div>
             <div class="card">
-            <img src="/public/pfp.jpg" alt="Profile Picture"/>
+            <img src="/pfp.jpg" alt="Profile Picture"/>
             <div class="card__content">
                 <p class="card__title">Full Stack Web Developer</p>
                 <br/> 
