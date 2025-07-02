@@ -21,7 +21,7 @@ A modern, high-performance portfolio website built with Next.js, showcasing my s
 |----------------|-----------------------------------------------------------------------------|
 | **Framework**  | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
 | **Styling**    | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Language**   | ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white) |
+| **Language**   | ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=yellow) |
 | **Animation**  | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) |
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
 
