@@ -1,6 +1,7 @@
 # 💼 Kartikeya's Portfolio
 
-![Portfolio Preview](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/og-image.png)
+ 
+![Portfolio Preview](./public/Screenshot_2025-07-15-16-19-52-13_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 A modern, high-performance portfolio website built with Next.js, showcasing my skills, projects, and professional journey.
 
