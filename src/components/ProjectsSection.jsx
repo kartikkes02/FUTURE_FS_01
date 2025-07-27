@@ -39,16 +39,6 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScrip"],
     demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
     githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
-  },
-  {
-    id: 4,
-    title: "E-Commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project4.webp",
-    tags: ["TypeScript", "TailwindCSS", "React", "Node.js"],
-    demoUrl: "https://portfolio-chi-roan-48.vercel.app/",
-    githubUrl: "https://github.com/kartikkes02/FUTURE_FS_01",
   }
 ];
 
