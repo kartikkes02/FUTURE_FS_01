@@ -20,16 +20,6 @@ const projects = [
     demoUrl: "https://kartikkes02.github.io/ATM/",
     githubUrl: "https://github.com/kartikkes02/ATM",
   },
-  // {
-  //   id: 3,
-  //   title: "E-commerce Platform",
-  //   description:
-  //     "Full-featured e-commerce platform with user authentication and payment processing.",
-  //   image: "/projects/project3.png",
-  //   tags: ["React", "Node.js", "Stripe"],
-  //   demoUrl: "#",
-  //   githubUrl: "#",
-  // },
   {
     id: 3,
     title: "Simon-Say Game",
@@ -39,6 +29,16 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScrip"],
     demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
     githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
+  },
+  {
+    id: 4,
+    title: "E-Commerce Platform",
+    description:
+      "Full-featured e-commerce platform with user authentication and payment processing.",
+    image: "/projects/ShopEase.jpg",
+    tags: ["TypeScript", "TailwindCSS", "React", "Node.js"],
+    demoUrl: "https://portfolio-chi-roan-48.vercel.app/",
+    githubUrl: "https://github.com/kartikkes02/FUTURE_FS_01",
   }
 ];
 
